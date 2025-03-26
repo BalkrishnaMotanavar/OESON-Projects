@@ -7,7 +7,7 @@ This repository showcases the projects I completed during my Data Science Intern
 - [Medicine Effectiveness & Patient Satisfaction](./medicine-effectiveness)  
   Built regression models to predict user satisfaction from medical review datasets.
 
-- [Terrorism Analysis: Causality & Target Vulnerability](./Terrorism Analysis Causality & Target Vulnerability)  
+- [Terrorism Analysis: Causality & Target Vulnerability](./Terrorism-Analysis-Causality-&-Target-Vulnerability)  
   Created interactive dashboards and data-driven insights from global terrorism data.
 
 - [Olympic Medal Prediction](./olympic-medal-prediction)  
